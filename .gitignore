@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+vov/.vs/vov/v15/Server/sqlite3/db.lock
+vov/.vs/vov/v15/Server/sqlite3/storage.ide
+vov/.vs/vov/v15/Server/sqlite3/storage.ide-shm
+vov/.vs/vov/v15/Server/sqlite3/storage.ide-wal
